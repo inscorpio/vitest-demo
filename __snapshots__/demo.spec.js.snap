@@ -1,0 +1,26 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`should return repeat item 1`] = `
+[
+  {
+    "num1": "0",
+    "symbol": ">=",
+  },
+  {
+    "num1": "5",
+    "symbol": "<=",
+  },
+  {
+    "num1": "10",
+    "symbol": ">=",
+  },
+  {
+    "num1": "10",
+    "symbol": ">",
+  },
+  {
+    "num1": "99",
+    "symbol": "=",
+  },
+]
+`;
